@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+
+	<kilometrage>
+		<key></key>
+		<value> moins de 10000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>10000</key>
+		<value>10000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>20000</key>
+		<value>20000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>30000</key>
+		<value>30000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>40000</key>
+		<value>40000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>50000</key>
+		<value>50000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>60000</key>
+		<value>60000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>70000</key>
+		<value>70000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>80000</key>
+		<value>80000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>90000</key>
+		<value>90000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>100000</key>
+		<value>100000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>125000</key>
+		<value>125000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>1500000</key>
+		<value>1500000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>175000</key>
+		<value>175000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key>200000</key>
+		<value>200000</value>
+	</kilometrage>
+
+	<kilometrage>
+		<key></key>
+		<value>plus de 2000000</value>
+	</kilometrage>
+</class>

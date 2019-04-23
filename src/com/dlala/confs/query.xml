@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<requete id = "AJOUTER_ANNONCE">
+		<contenue>SELECT * FROM Annonces;</contenue>
+	</requete>
+	
+	<requete id = "SUPPRIMER_ANNONCE">
+		<contenue>DELETE Annonces WHERE idAnnonce = '{0}';</contenue>
+	</requete>
+</class>

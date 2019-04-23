@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<class>
+	<categorie>
+		<nom>-- Toute Categorie --</nom>
+		<numero>100</numero>
+		<disable>disabled</disable>
+		<style>style="background-color:#E6E6E6;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>-- Emploi --</nom>
+		<numero>200</numero>
+		<disable>disabled</disable>
+		<style>style="background-color:Red;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>Offres d'emploi</nom>
+		<numero>201</numero>
+	</categorie>
+
+	<categorie>
+		<nom>-- Vehicules --</nom>
+		<numero>300</numero>
+		<disable>disabled</disable>
+		<style>style="background-color: #E60000;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>Voitures</nom>
+		<numero>301</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Motos</nom>
+		<numero>302</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Equipement Auto</nom>
+		<numero>350</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Equipement Moto</nom>
+		<numero>351</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Utilitaires</nom>
+		<numero>352</numero>
+	</categorie>
+
+
+	<categorie>
+		<nom>-- Immobilier --</nom>
+		<numero>400</numero>
+		<disable>disabled</disable>
+		<style>style="background-color:#E6E6E6;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>Locations</nom>
+		<numero>401</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Bureaux et Commerces</nom>
+		<numero>402</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Ventes immobilières</nom>
+		<numero>403</numero>
+	</categorie>
+
+
+	<categorie>
+		<nom>-- Multimedia --</nom>
+		<numero>500</numero>
+		<disable>disabled</disable>
+		<style>style="background-color:#E6E6E6;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>Informatique</nom>
+		<numero>501</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Consoles et Jeux vidéo</nom>
+		<numero>502</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Image et Son</nom>
+		<numero>503</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Téléphonie</nom>
+		<numero>504</numero>
+	</categorie>
+
+	<categorie>
+		<nom>-- Loisirs --</nom>
+		<numero>600</numero>
+		<disable>disabled</disable>
+		<style>style="background-color:#E6E6E6;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>DVD / Films</nom>
+		<numero>601</numero>
+	</categorie>
+
+	<categorie>
+		<nom>CD / Musique</nom>
+		<numero>602</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Livres</nom>
+		<numero>603</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Vélos</nom>
+		<numero>604</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Sports et Hobbies</nom>
+		<numero>605</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Instruments de musique</nom>
+		<numero>606</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Jeux et Jouets</nom>
+		<numero>607</numero>
+	</categorie>
+
+	<categorie>
+		<nom>-- Matriel Professionnel --</nom>
+		<numero>700</numero>
+		<disable>disabled</disable>
+		<style>style="background-color:#E6E6E6;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>Matériel Agricole</nom>
+		<numero>701</numero>
+	</categorie>
+
+	<categorie>
+		<nom>BTP - Chantier Gros-oeuvre</nom>
+		<numero>702</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Équipements Industriels</nom>
+		<numero>703</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Matériel Médical</nom>
+		<numero>704</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Commerces et Marchés</nom>
+		<numero>705</numero>
+	</categorie>
+
+	<categorie>
+		<nom>-- Maison --</nom>
+		<numero>800</numero>
+		<disable>disabled</disable>
+		<style>style="background-color:#E6E6E6;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>Ameublement</nom>
+		<numero>801</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Electroménager</nom>
+		<numero>802</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Décoration</nom>
+		<numero>803</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Linge de maison</nom>
+		<numero>804</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Bricolage</nom>
+		<numero>805</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Jardinage</nom>
+		<numero>806</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Montres et Bijoux</nom>
+		<numero>807</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Accessoires et Bagagerie</nom>
+		<numero>808</numero>
+	</categorie>
+
+	<categorie>
+		<nom>-- VACANCES --</nom>
+		<numero>900</numero>
+		<disable>disabled</disable>
+		<style>style="background-color:#E6E6E6;font-weight: bold;"</style>
+	</categorie>
+
+	<categorie>
+		<nom>Locations et Gîtes</nom>
+		<numero>901</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Campings</nom>
+		<numero>902</numero>
+	</categorie>
+
+	<categorie>
+		<nom>Hébergements insolites</nom>
+		<numero>903</numero>
+	</categorie>
+
+</class>

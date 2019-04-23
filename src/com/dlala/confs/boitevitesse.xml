@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<boitevitesse>
+		<nom>Manuelle</nom>
+		<numero>1</numero>
+	</boitevitesse>
+
+	<boitevitesse>
+		<nom>Automatique</nom>
+		<numero>2</numero>
+	</boitevitesse>
+</class>

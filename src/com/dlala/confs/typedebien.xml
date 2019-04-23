@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<typedebien>
+		<nom>Maison</nom>
+		<numero>1</numero>
+	</typedebien>
+
+	<typedebien>
+		<nom>Appartement</nom>
+		<numero>2</numero>
+	</typedebien>
+
+	<typedebien>
+		<nom>Terrain</nom>
+		<numero>3</numero>
+	</typedebien>
+	
+	<typedebien>
+		<nom>Parking</nom>
+		<numero>4</numero>
+	</typedebien>
+	
+	<typedebien>
+		<nom>Autres</nom>
+		<numero>5</numero>
+	</typedebien>
+</class>

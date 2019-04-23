@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<requete id="GET_LISTE_ANNONCE_ID">
+		<contenue>SELECT * FROM Annonce WHERE 1=1</contenue>
+	</requete>
+
+	<requete id="GET_ANNONCE_BY_ID">
+		<contenue>SELECT * FROM Annonce WHERE idAnnonce = ?;</contenue>
+	</requete>
+	
+	<requete id="AJOUTER_ANNONCE_ID">
+		<contenue>INSERT INTO Annonce 
+				(`idAnnonce`, `categorie`, `titre`, 
+				`description`, `prix`, `type`, `adresse`, 
+				`wilaya`, `email`, `telephone`, `modele`, 
+				`annee`, `marque`, `carburant`, `kilometrage`, 
+				`boitevitesse`, `surface`, `pieces`, `meuble`, 
+				`typedebien`, `photo1`, `photo2`, `photo3`, 
+				`afficherTelephone`) 
+				VALUES 
+				(?,?,?,?,
+				 ?,?,?,?,
+				 ?,?,?,?,
+				 ?,?,?,?,
+				 ?,?,?,?,
+				 ?,?,?,?);</contenue>
+	</requete>
+</class>

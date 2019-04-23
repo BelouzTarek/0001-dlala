@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+
+	<carburant>
+		<nom>Essence</nom>
+		<numero>1</numero>
+	</carburant>
+
+	<carburant>
+		<nom>Diesel</nom>
+		<numero>2</numero>
+	</carburant>
+	
+	<carburant>
+		<nom>GPL</nom>
+		<numero>3</numero>
+	</carburant>
+	
+	<carburant>
+		<nom>Electrique</nom>
+		<numero>4</numero>
+	</carburant>
+	
+	<carburant>
+		<nom>Autre</nom>
+		<numero>5</numero>
+	</carburant>
+
+</class>

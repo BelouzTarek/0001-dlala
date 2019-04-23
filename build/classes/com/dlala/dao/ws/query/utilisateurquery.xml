@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<requete id="AJOUTER_UTILISATEUR_ID">
+		<contenue>INSERT INTO `Utilisateur`
+			(
+			`idutilisateur`, `nom`, `prénom`,
+			`email`, `motdepasse`, `telephone`,
+			`adresse`, `wilaya`
+			)
+			VALUES
+			(
+			?,?,?,
+			?,?,?,
+			?,?
+			);
+		</contenue>
+	</requete>
+
+	<requete id="CONNEXION_ID">
+		<contenue>SELECT * FROM `Utilisateur` WHERE email= ?
+			AND motdepasse = ?;
+		</contenue>
+	</requete>
+</class>

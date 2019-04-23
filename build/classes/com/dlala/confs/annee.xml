@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+
+	<prixvehicule>
+		<key>500000</key>
+		<value>500 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key>1000000</key>
+		<value>1 000 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key>1500000</key>
+		<value>1 500 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key>2000000</key>
+		<value>2 000 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key>250000</key>
+		<value>2 500 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key>3000000</key>
+		<value>3 000 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key>3500000</key>
+		<value>3 500 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key>4000000</key>
+		<value>4 000 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key>5000000</key>
+		<value>5 000 000</value>
+	</prixvehicule>
+
+	<prixvehicule>
+		<key> > 5000000</key>
+		<value>plus de 5 000 000</value>
+	</prixvehicule>
+
+</class>

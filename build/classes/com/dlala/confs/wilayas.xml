@@ -1,0 +1,243 @@
+<?xml version = "1.0"?>
+<class>
+	<wilaya>
+		<nom>Adrar</nom>
+		<numero>1</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Chlef</nom>
+		<numero>2</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Laghouat</nom>
+		<numero>3</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Oum El Bouaghi</nom>
+		<numero>4</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Batna</nom>
+		<numero>5</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Béjaïa</nom>
+		<numero>6</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Biskra</nom>
+		<numero>7</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Béchar</nom>
+		<numero>8</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Blida</nom>
+		<numero>9</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Bouira</nom>
+		<numero>10</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Tamanrasset</nom>
+		<numero>11</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Tébessa</nom>
+		<numero>12</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Tlemcen</nom>
+		<numero>13</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Tiaret</nom>
+		<numero>14</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Tizi Ouzou</nom>
+		<numero>15</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Alger</nom>
+		<numero>16</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Djelfa</nom>
+		<numero>17</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Jijel</nom>
+		<numero>18</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Sétif</nom>
+		<numero>19</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Saïda</nom>
+		<numero>20</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Skikda</nom>
+		<numero>21</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Sidi Bel Abbès</nom>
+		<numero>22</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Annaba</nom>
+		<numero>23</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Guelma</nom>
+		<numero>24</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Constantine</nom>
+		<numero>25</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Médéa</nom>
+		<numero>26</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Mostaganem</nom>
+		<numero>27</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>M'Sila</nom>
+		<numero>28</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Mascara</nom>
+		<numero>29</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Ouargla</nom>
+		<numero>30</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Oran</nom>
+		<numero>31</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>El Bayadh</nom>
+		<numero>32</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Illizi</nom>
+		<numero>33</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Bordj Bou Arreridj</nom>
+		<numero>34</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Boumerdès</nom>
+		<numero>35</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>El Tarf</nom>
+		<numero>36</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Tindouf</nom>
+		<numero>37</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Tissemsilt</nom>
+		<numero>38</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>El Oued</nom>
+		<numero>39</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Khenchela</nom>
+		<numero>40</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Souk Ahras</nom>
+		<numero>41</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Tipaza</nom>
+		<numero>42</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Mila</nom>
+		<numero>43</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Aïn Defla</nom>
+		<numero>44</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Naâma</nom>
+		<numero>45</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Aïn Témouchent</nom>
+		<numero>46</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Ghardaïa</nom>
+		<numero>47</numero>
+	</wilaya>
+
+	<wilaya>
+		<nom>Relizane</nom>
+		<numero>48</numero>
+	</wilaya>
+</class>
+
